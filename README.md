@@ -1,0 +1,2 @@
+# discordshop
+discordshop.xyz
